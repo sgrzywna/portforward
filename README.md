@@ -6,6 +6,12 @@ I'm not the original author of the source code, I've just put together some reci
 
 This simple application is an excellent example of the power and simplicity of go - fully functional port forwarder in just a few lines of the source code.
 
+## Installation
+
+```bash
+go get github.com/sgrzywna/portforward
+```
+
 ## Usage examples
 
 ### Direct port forwarding
