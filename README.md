@@ -2,7 +2,7 @@
 
 Simple and small port forwarder with SOCKS5 proxy support.
 
-I'm not the original author of the source code, I've just put together some recipes found on the Internet.
+This is a slighty modified version of [Simple connection fowarder in golang](http://blog.evilissimo.net/simple-port-fowarder-in-golang).
 
 This simple application is an excellent example of the power and simplicity of go - fully functional port forwarder in just a few lines of the source code.
 
